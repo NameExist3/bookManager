@@ -11,3 +11,4 @@
 
 效果图：
 
+<img src="images/homepage.png" style="zoom:70%;" />
